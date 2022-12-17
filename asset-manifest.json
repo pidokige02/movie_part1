@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/movie_part1/static/js/main.cef09504.js",
+    "index.html": "/movie_part1/index.html",
+    "main.cef09504.js.map": "/movie_part1/static/js/main.cef09504.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cef09504.js"
+  ]
+}
